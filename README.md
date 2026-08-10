@@ -1,2 +1,2 @@
 # hui-cat.github.io
-Fumo-Translator-Web
+将来可能会变成个人主站
